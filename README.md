@@ -3,10 +3,9 @@
 
 Application Flutter bilingue (Français / Arabe) pour la gestion du vote électronique.
 
-## 🌐 Application en ligne
-> **[https://mohamedoubabe9.github.io/sawti_v2/](https://mohamedoubabe9.github.io/sawti_v2/)**
 
----
+
+
 
 ## ⚙️ Stack technique
 | Couche | Technologie |
